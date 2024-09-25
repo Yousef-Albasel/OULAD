@@ -5,8 +5,8 @@ This repository contains a project focused on developing a personalized learning
 
 ## Features
 - **Student Clustering**: Grouping students based on their learning behaviors and performance.
+- **Learning style classification**: Classifying what is the best learning style for each student.
 - **Personalized Recommendations**: Generating customized learning paths for each student.
-- **Data Visualization**: Visualizing student performance and progress metrics.
 
 ## Dataset
 The project uses the [OULAD dataset](http://ocrdata.org/) to analyze and draw insights about student learning patterns.
